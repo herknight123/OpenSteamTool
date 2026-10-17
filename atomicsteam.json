@@ -1,6 +1,6 @@
 {
-  "popup": "是",
+  "popup": "否",
   "popupText": "是时候更新新版本了",
-  "update": "是",
+  "update": "否",
   "kernelZipUrl": "https://github.com/herknight123/OpenSteamTool/releases/download/1.5.3.4/OpenSteamTool-1.5.3.4-Release.zip"
 }
