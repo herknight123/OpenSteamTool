@@ -1,6 +1,7 @@
 {
   "popup": "否",
-  "popupText": "夸克网盘更新了，去网盘下载最新版本吧（已下载可以无视）",
+  "popupText": "新版本 1.0.2 已发布：https://pan.quark.cn/s/ad5233243b52 自行下载安装",
   "update": "否",
-  "kernelZipUrl": "https://github.com/herknight123/OpenSteamTool/releases/download/1.5.3.4/OpenSteamTool-1.5.3.4-Release.zip"
+  "kernelZipUrl": "https://github.com/herknight123/OpenSteamTool/releases/download/1.5.3.4/OpenSteamTool-1.5.3.4-Release.zip",
+  "version": "1.0.2"
 }
