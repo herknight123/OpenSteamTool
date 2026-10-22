@@ -1,6 +1,6 @@
 {
-  "popup": "否",
-  "popupText": "是时候更新新版本了",
+  "popup": "是",
+  "popupText": "夸克网盘更新了，去网盘下载最新版本吧",
   "update": "否",
   "kernelZipUrl": "https://github.com/herknight123/OpenSteamTool/releases/download/1.5.3.4/OpenSteamTool-1.5.3.4-Release.zip"
 }
